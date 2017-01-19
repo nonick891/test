@@ -1,5 +1,7 @@
 <?php
 
+namespace Test;
+
 echo 'test';
 
 class File

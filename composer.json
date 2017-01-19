@@ -1,0 +1,8 @@
+{
+  "name": "nonick891/test",
+  "autoload": {
+    "psr-0" : {
+      "Test" : "src"
+    }
+  }
+}
