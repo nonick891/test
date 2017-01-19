@@ -1,5 +1,9 @@
 {
   "name": "nonick891/test",
+  "description": "Package for test",
+  "require": {
+    "php": "^5.3.3 || ^7.0"
+  },
   "autoload": {
     "psr-0" : {
       "Test" : "src"
